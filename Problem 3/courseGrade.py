@@ -1,3 +1,8 @@
+"""
+    Name: Luke Runnels
+    Lab time: 3/8/2024
+"""
+
 def courseGrade():
     
     # TODO: Declare any necessary variables here. 

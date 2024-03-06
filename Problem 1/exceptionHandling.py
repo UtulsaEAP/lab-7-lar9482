@@ -1,3 +1,7 @@
+"""
+    Name: Luke Runnels
+    Lab time: 3/8/2024
+"""
 def exceptionHandling():
     # Split input into 2 parts: name and age
     parts = input().split()
@@ -9,7 +13,6 @@ def exceptionHandling():
             age = int(parts[1]) + 1
         except:
             age = 0
-        print()
         print(f'{name} {age}')
         
         # Get next line
