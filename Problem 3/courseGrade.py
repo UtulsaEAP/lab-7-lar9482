@@ -24,8 +24,6 @@ def courseGrade():
             midterm2 = 0
             final = 0
 
-            # Wooh! Inconsistant format in the file.
-            # I heart dynamic data
             if (nameAndGrade[1].isnumeric()):
                 firstAndLastName = nameAndGrade[0].split(" ")
                 firstName = firstAndLastName[0]
